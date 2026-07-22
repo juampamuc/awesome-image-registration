@@ -4977,6 +4977,8 @@ The software consists of a collection of algorithms that are commonly used to so
 
 [n-icp](http://jacoposerafin.com/nicp/)
 
+[splatreg](https://github.com/Archerkattri/splatreg) - registers/merges 3D Gaussian-splat scans by recovering their SE(3)/Sim(3) transform: Levenberg-Marquardt over ICP with a Gaussian-SDF residual computed directly from the target Gaussians, no meshing.
+
 ---
 
 
